@@ -1,0 +1,11 @@
+
+.titulo{
+  text-align: center;
+  font-size: 8rem;
+  margin: 0;
+  font-weight: bold;
+}
+
+hr{
+  border: 1px black solid;
+}

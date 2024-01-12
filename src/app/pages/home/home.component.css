@@ -1,0 +1,60 @@
+main{
+  position: absolute;
+  top: 10px;
+  left: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  height: 100%;
+}
+
+.container{
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+header-bar{
+  width: 100%;
+}
+
+page-title{
+  width: 100%;
+}
+
+content-bar{
+  width: 100%;
+}
+
+big-card{
+  height: 60vh;
+  position: sticky;
+  top: 20px;
+  margin-top: 10px;
+}
+
+.cards{
+  width: 100%;
+  overflow: hidden;
+  border-left: 1px solid black;
+  padding-top: 10px;
+}
+
+small-card{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 10px 5px;
+}
+
+hr{
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+footer-card{
+  border-top: 1px solid black;
+  width: 100%;
+}

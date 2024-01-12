@@ -1,0 +1,13 @@
+*{
+  background-color: inherit;
+  border: none;
+}
+
+ul{
+  display: flex;
+  list-style: none;
+}
+
+li{
+  margin: 0 5px;
+}

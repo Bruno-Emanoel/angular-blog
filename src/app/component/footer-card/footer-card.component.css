@@ -1,0 +1,16 @@
+*{
+  background-color: #00A6ED;
+}
+
+.container{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.container>*{
+  width: 33%;
+}
+
+ul{
+  list-style: none;
+}

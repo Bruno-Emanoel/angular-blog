@@ -1,0 +1,16 @@
+*{
+  background-color: #00A6ED;
+}
+
+.inline{
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+header-search{
+  display: flex;
+  justify-content: center;
+  width: 200px;
+  max-width: 40vw;
+}
