@@ -1,27 +1,26 @@
-# AngularBlog
+# Blog Jojo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
+Projeto criado com intuito de implementar meu recém-adquirido conhecimento no Angular Framework e foi feito utilizando:
+[Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
-## Development server
+## Objetivos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+O objetivo do projeto é criar um blog utilizando das tecnologias oferecidas pelo Angular Framework, objetivo este que implementei ao tentar utilizar da nova tecnologia dos standalone components. 
 
-## Code scaffolding
+## Andamento
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Durante o andamento do projeto não foi estabelecido uma temática para o blog, então inicialmente optei por torna-lo em um blog relacionado ao anime Jojo's bizarre adventure, porém é provável que isso será mudado em atualizações futuras do projeto.
 
-## Build
+## Status
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Incompleto. E necessário uma implementação de banco de dados e das várias outras funcionalidades dos botões na página, o que será feito juntamente com a implementação do BD.
 
-## Running unit tests
+## Contribuição
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Sinta-se livre para fazer pull requests de qualquer alteração que julgue pertinente, ao fazer isso inclua seu nome e a alteração realizada abaixo. seu pull request será analisado antes de ser aceito.
 
-## Running end-to-end tests
+1-
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2-
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+...
