@@ -8,13 +8,12 @@
   text-align: center;
 }
 
-body {
+html {
   background-image: url("assets/background.jpg");
   background-size: cover;
-  height: 150vh;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  overflow: scroll;
+  height: 100%;
 }
 
 a{

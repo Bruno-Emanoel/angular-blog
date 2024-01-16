@@ -2,4 +2,6 @@ img{
   object-fit: cover;
 }
 
-
+.clicar{
+  text-decoration: underline;
+}
