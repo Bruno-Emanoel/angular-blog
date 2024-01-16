@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'page-title',
@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './page-title.component.css'
 })
 export class PageTitleComponent {
-
+  @Input() titulo:string = 'Bruno Página'
 }
